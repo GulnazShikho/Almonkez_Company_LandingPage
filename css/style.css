@@ -1,0 +1,93 @@
+@import url(font\Adobe-Arabic-Regular-Font.otf);
+body{
+    font-family: 'Adobe Arabic Font', serif;
+    color: #363636;
+}
+
+.navbar-nav > li {
+    margin-left:17px;
+    font-size: 16px;
+}
+.dark{
+    color: #242424;
+}
+.nav-item :hover {
+    color: #21389c;  
+    margin-top: 0.5px;
+}
+.carousel-item > img {
+    opacity: 70%;
+}
+.carousel-item{
+   height: 32rem;
+   background-color: #777777;
+}
+.sperator{
+    width: 300px;
+    height: 2px;
+    
+}
+.bg-darkblue{
+    background-color: #1b2131;
+    
+}
+.footer-icon:hover{
+    color:#aae9f9 ;
+    font-size: 20px;
+}
+.accordion-button.collapsed {
+   background: #f8f9fa;
+}
+.accordion-button:focus {
+   box-shadow: none;
+   border-color: rgba(0,0,0,.125);
+   background: #f8f9fa;
+}
+.accordion-button:after {
+   order: -1; 
+   margin-left: 0.9em; 
+   margin-right:0; 
+}
+.accordion-collapse.collapse{
+    background: #f8f9fa;
+}
+.accordion-collapse.collapse{
+    background: #f8f9fa;
+}
+.send-massege-costume{
+    width: 600px;
+    border: 1px solid rgb(245, 245, 245) ;
+    border-top: 3px solid #11468b;
+    border-bottom: 3px solid #11468b;
+ }
+ .c-input:focus{
+    border:1px solid #11468b;
+    box-shadow: none;
+ }
+ .conect-us-costume{
+   width: 500px;
+    border: 1px solid rgb(245, 245, 245) ;
+    border-top: 3px solid #11468b;
+    border-bottom: 3px solid #11468b;
+ }
+ .caustome-card{
+    border-radius: 0px;
+    border: 1px solid rgb(245, 245, 245) ;
+    border-top: 2px solid #11468b;
+    border-bottom: 2px solid #11468b;
+ }
+ #castome-carousel-item{
+   height: 30rem;
+   
+}
+.castome-carousel-indicators button {
+    height: 10px !important;
+    width: 10px !important;
+    margin: 0 10px !important;
+    border-radius: 100%;
+    background-color: #11468b !important;
+}
+.costome-footer-link:hover{
+   color: #aae9f9 !important;
+   font-size: 18px;
+}
